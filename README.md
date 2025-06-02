@@ -4,13 +4,11 @@ This project scrapes movie data from Rotten Tomatoes and employs a Voting Classi
 # Project Title: Movie Sentiment Analysis with Web Scraping and Ensemble Learning
 
 ## Description
-A brief overview of your project.
 
 *This project first scrapes movie data from Rotten Tomatoes using Python, Selenium, and BeautifulSoup. It then preprocesses this data and employs a Voting Classifier (combining Logistic Regression, Random Forest, and SVC with GridSearchCV) to predict audience sentiment based on features like movie runtime and critic scores.*
 
 
 ## Features
-List the main capabilities of your project.
 * **Web Scraping:**
     * Collects detailed movie information from Rotten Tomatoes.
     * Scrapes fields including title, summary, director, producer, screenwriter, rating, genre, language, release date, box office gross, runtime, critic score, and audience score.
